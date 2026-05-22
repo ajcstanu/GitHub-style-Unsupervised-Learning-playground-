@@ -1,5 +1,6 @@
 🤖 Algorithms Implemented
 AlgorithmTypeBest ForK-MeansPartitionalConvex, well-separated blobsDBSCANDensity-basedArbitrary shapes, outlier detectionPCADimensionality reductionVisualization, noise reductionHierarchicalAgglomerativeUnknown k, dendrogram analysis
+
 -----------
  Interactive Features
 
@@ -7,6 +8,7 @@ AlgorithmTypeBest ForK-MeansPartitionalConvex, well-separated blobsDBSCANDensity
 Live parameter tuning — adjust k, ε (eps), minPts via sliders
 Real-time visualization — SVG canvas with color-coded clusters + centroid markers
 Results panel — cluster sizes, noise points, PCA variance explained
+----------------------
 
 3 Tabs
 
