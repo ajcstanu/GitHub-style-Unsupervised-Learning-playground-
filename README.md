@@ -1,7 +1,7 @@
 🤖 Algorithms Implemented
 AlgorithmTypeBest ForK-MeansPartitionalConvex, well-separated blobsDBSCANDensity-basedArbitrary shapes, outlier detectionPCADimensionality reductionVisualization, noise reductionHierarchicalAgglomerativeUnknown k, dendrogram analysis
-
-🎛️ Interactive Features
+-----------
+ Interactive Features
 
 4 Dataset types — Gaussian Blobs, Two Moons, Concentric Circles, Random
 Live parameter tuning — adjust k, ε (eps), minPts via sliders
