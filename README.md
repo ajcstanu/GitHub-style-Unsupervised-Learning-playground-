@@ -1,5 +1,5 @@
-#Algorithms Implemented
-
+# Algorithms Implemented
+----------------------------------------------------------------------------------------------------
 AlgorithmTypeBest ForK-MeansPartitionalConvex, well-separated blobsDBSCANDensity-basedArbitrary shapes, outlier detectionPCADimensionality reductionVisualization, noise reductionHierarchicalAgglomerativeUnknown k, dendrogram analysis
 
 -----------
